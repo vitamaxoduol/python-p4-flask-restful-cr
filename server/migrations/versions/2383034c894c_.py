@@ -1,8 +1,8 @@
-"""create table newsletters
+"""empty message
 
-Revision ID: 2da2c0ccb068
-Revises: 9d4df3a4e7ed
-Create Date: 2022-09-21 13:28:00.000818
+Revision ID: 2383034c894c
+Revises: 
+Create Date: 2023-09-24 11:18:54.346440
 
 """
 from alembic import op
@@ -10,8 +10,8 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '2da2c0ccb068'
-down_revision = '9d4df3a4e7ed'
+revision = '2383034c894c'
+down_revision = None
 branch_labels = None
 depends_on = None
 
